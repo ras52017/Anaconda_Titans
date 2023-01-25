@@ -17,6 +17,9 @@ For this analysis, all diabetes types will be collectively treated as diabetes o
 The purpose of this analysis is to review the 2021 Behavioral Risk Factor Surveillance System survey data information dataset [3]. This dataset contains 438,639 records that we have cleaned and analyzed to look at how well known risk factors indicate the occurrence of diabetes/prediabetes from our questions noted below:
 
 
+![image](https://github.com/ras52017/Cryptocurrencies-/blob/main/images/Screenshot%202023-01-17%20235031.jpg)
+
+
 ## Resources:
 [1] https://www.cdc.gov/diabetes/basics/diabetes.html 
 
