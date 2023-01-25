@@ -1,5 +1,8 @@
 # Anaconda_Titans
 
+# Purpose of Analysis: To Develop a Prediction Algorithm to Identify Key Diabetes Indicators
+
+
 ## Project Outline
 
 ### Project name
