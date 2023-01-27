@@ -11,6 +11,13 @@
 ### Project layout
 ### Identify dataset
 
+## Presentation
+https://docs.google.com/presentation/d/1qGy2-b1SRxSEkdzDkbmghH16_rVRwgC2FQhMx59UZbI/edit#slide=id.g200cf861361_0_0
+
+## Contributors
+### Harriet Hammond
+### Rachel Helmich
+### Erasmus Quaye
 
 ## Background:
 Diabetes occurs mainly in three main types: Type 1 (autoimmune disease, ~5-10% of people with diabetes), Type 2 (90-95% of people with diabetes), and Gestational (occurs only in women during pregnancy, known to increase risk for Type 2 diabetes later in life). Prediabetes is an additional condition in which blood sugar levels are higher than normal, but not high enough to count as Type 2 diabetes (~1 in 3 US adults have prediabetes). Lifestyle changes are known to be successful methods to reverse prediabetes [1]. 
@@ -18,6 +25,14 @@ Diabetes occurs mainly in three main types: Type 1 (autoimmune disease, ~5-10% o
 For this analysis, all diabetes types will be collectively treated as diabetes occurrences together. We do recognize that Type 1 diabetes isn’t known to be preventable, as its main risk factors are genetic-based rather than lifestyle. However, 90-95% of diabetes, in addition to prediabetes cases, occur due to lifestyle risk factors. Examples of lifestyle risk factors include: amount of weekly physical activity, diet (amount of fresh fruits/vegetables), weight (overweight/obesity), ethnicity, age, number of close family members with diabetes, and other co-occurring diseases (eg. hypertension, high cholesterol, etc…) [2].
 
 The purpose of this analysis is to review the 2021 Behavioral Risk Factor Surveillance System survey data information dataset [3]. This dataset contains 438,639 records that we have cleaned and analyzed to look at how well known risk factors indicate the occurrence of diabetes/prediabetes from our questions noted below:
+
+1) What are the top 5 states for diabetes occurrence?
+
+2) What are the top 3-5 indicators/comorbities are found with diabetes patients?
+
+3) How does the occurence of diabetes differ between races, genders, and both combined?
+
+4) How well can future diabetes cases be predicted by the top indicators by training a model? 
 
 ### Sample ETL output dataset
 
