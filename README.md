@@ -48,6 +48,9 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 ![image](https://github.com/ras52017/Anaconda_Titans/blob/main/Images/diabetes_binary_5050split_healt_Sample.jpg)
 
+#### Tableau Image
+
+![image](https://github.com/ras52017/Anaconda_Titans/blob/main/Images/Anaconda_Titans%20Tableau%20Image.jpg)
 
 ## Resources:
 [1] https://www.cdc.gov/diabetes/basics/diabetes.html 
