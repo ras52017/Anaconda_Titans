@@ -60,3 +60,5 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 [3] https://www.cdc.gov/brfss/annual_data/annual_2021.html 
 
 [4] https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
+[5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5298897/#:~:text=Diabetes%20is%20a%20well%2Destablished,stroke%20with%20uncontrolled%20glucose%20levels. 
