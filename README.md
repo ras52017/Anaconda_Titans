@@ -24,7 +24,7 @@ Diabetes occurs mainly in three main types: Type 1 (autoimmune disease, ~5-10% o
 
 For this analysis, all diabetes types will be collectively treated as diabetes occurrences together. We do recognize that Type 1 diabetes isn’t known to be preventable, as its main risk factors are genetic-based rather than lifestyle. However, 90-95% of diabetes, in addition to prediabetes cases, occur due to lifestyle risk factors. Examples of lifestyle risk factors include: amount of weekly physical activity, diet (amount of fresh fruits/vegetables), weight (overweight/obesity), ethnicity, age, number of close family members with diabetes, and other co-occurring diseases (eg. hypertension, high cholesterol, etc…) [2]. Inspiration for our 2021 analysis has been taken from a 2015 dataset analysis from Kaggle [4].
 
-The purpose of this analysis is to review the 2021 Behavioral Risk Factor Surveillance System survey data information dataset [3]. This dataset contains 438,639 records that we have cleaned and analyzed to look at how well known risk factors indicate the occurrence of diabetes/prediabetes from our questions noted below:
+The purpose of this analysis is to review the 2021 Behavioral Risk Factor Surveillance System survey data information dataset [3]. This dataset contains 438,693 records that we have cleaned and analyzed to look at how well known risk factors indicate the occurrence of diabetes/prediabetes from our questions noted below:
 
 1) What are the top 5 states for diabetes occurrence?
 
