@@ -67,6 +67,27 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 ![image](https://user-images.githubusercontent.com/112135658/216495917-9a3bdd49-e7d7-44ec-8fa9-761b486f8a3d.png)
 
+## Languages/Tools/Algorithms
+### Languages:
+- Python 3.7.16 (for ETL and Machine Learning)
+
+### Tools:
+- Visual Studio Code
+
+- Tableau
+
+- GitHub
+
+- Google Slides
+
+- Google Sheets
+
+### Algorithms:
+- Logistic Regression
+
+- Neural Networking
+
+
 ## Resources:
 [1] https://www.cdc.gov/diabetes/basics/diabetes.html 
 
