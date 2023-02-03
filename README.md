@@ -66,3 +66,8 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 ##### Survey responses by States
 ![image](https://user-images.githubusercontent.com/112135658/216492957-7f6fb115-2135-4b5c-9378-774cfa86a7ae.png)
 
+#### Racial makeup of Survey responders
+
+![image](https://user-images.githubusercontent.com/112135658/216493805-aeebd276-da25-42ed-a8fb-7b7bb69df160.png)
+
+
