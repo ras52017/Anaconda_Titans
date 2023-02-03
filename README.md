@@ -72,3 +72,8 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 #### Gender (male) diabetes count by state
 ![image](https://user-images.githubusercontent.com/112135658/216494368-4a330a3a-b4b1-4096-8bd4-2cdc8dd02044.png)
+ 
+#### Gender (female) diabetes count by state
+![image](https://user-images.githubusercontent.com/112135658/216494773-6c5d6674-44d8-4ca4-b39f-30e2181e11a0.png)
+
+
