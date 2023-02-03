@@ -2,15 +2,6 @@
 
 # Purpose of Analysis: To Develop a Prediction Algorithm to Identify Key Diabetes Indicators
 
-
-## Project Outline
-
-### Project name
-### Create a Repository
-### Create a Branch
-### Project layout
-### Identify dataset
-
 ## Presentation
 https://docs.google.com/presentation/d/1qGy2-b1SRxSEkdzDkbmghH16_rVRwgC2FQhMx59UZbI/edit#slide=id.g200cf861361_0_0
 
