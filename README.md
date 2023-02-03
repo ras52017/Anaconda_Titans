@@ -10,6 +10,7 @@ https://docs.google.com/presentation/d/1qGy2-b1SRxSEkdzDkbmghH16_rVRwgC2FQhMx59U
 ### What is left to do?
 - finish project management tracker
 - cleanup compiled files
+- practice presentation (each member speaks 3 minutes with 15 second leeway)
 
 ## Contributors
 ### Harriet Hammond
