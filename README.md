@@ -5,6 +5,12 @@
 ## Presentation
 https://docs.google.com/presentation/d/1qGy2-b1SRxSEkdzDkbmghH16_rVRwgC2FQhMx59UZbI/edit#slide=id.g200cf861361_0_0
 
+## Current project status: ETL - done; ML (Logistic Regression model) - done (still attempting to improve, but at least something prepared); visualizations - done
+
+### What is left to do?
+- finish project management tracker
+- cleanup compiled files
+
 ## Contributors
 ### Harriet Hammond
 ### Rachel Helmich
