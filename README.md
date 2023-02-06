@@ -30,7 +30,7 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 1) What are the top 3-5 indicators/comorbities are found with diabetes patients?
 
-2) How does the occurence of diabetes differ between races, genders, and both combined?
+2) How does the occurence of diabetes differ between and within races, genders, and both combined?
 
 3) How well can future diabetes cases be predicted by the top indicators by training a model? 
 
