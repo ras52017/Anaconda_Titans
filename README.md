@@ -70,7 +70,7 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 ## Languages/Tools/Algorithms
 ### Languages:
-- Python 3.7.16 (for ETL and Machine Learning)
+- Python
 
 ### Tools:
 - Visual Studio Code
