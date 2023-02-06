@@ -5,6 +5,9 @@
 ## Presentation
 https://docs.google.com/presentation/d/1qGy2-b1SRxSEkdzDkbmghH16_rVRwgC2FQhMx59UZbI/edit#slide=id.g200cf861361_0_0
 
+### Tableau public Link
+https://public.tableau.com/app/profile/harriet.oppong/viz/Anaconda_Titans1__/Diabetes_Prediction?publish=yes
+
 ## Contributors
 ### Harriet Hammond
 #### GitHub: 
