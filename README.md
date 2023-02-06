@@ -35,10 +35,11 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 3) How well can future diabetes cases be predicted by the top indicators by training a model? 
 
 ## Conclusion
-- 3 features looked at include: 
+-  Features looked at include: 
     - Cholesterol levels
     - High blood pressure
-    - History of stroke
+    - Physical activity
+    - Smokers
     - Race/gender differs on diabetes occurrences, demographics play a significant role
 - Logistic Regression model has a 73% accuracy at predicting diabetes
 - Diabetes is a disease that can occur due to a variety of genetic, environmental, and lifestyle factors, limiting the level accuracy a model can reach
