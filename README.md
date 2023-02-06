@@ -70,7 +70,18 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 ## Languages/Tools/Algorithms
 ### Languages:
-- Python
+- Python (for ETL and Machine Learning)
+    - from sklearn:
+        - sklearn.model_selection (import train_test_split)
+        - sklearn.preprocessing (import StandardScaler,OneHotEncoder)
+        - sklearn.linear_model (import LogisticRegression)
+        - sklearn.metrics (import accuracy_score)
+    - Pandas
+    - Numpy
+    - OS
+    - Random 
+    - Tensorflow
+
 
 ### Tools:
 - Visual Studio Code
