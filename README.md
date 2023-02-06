@@ -5,19 +5,14 @@
 ## Presentation
 https://docs.google.com/presentation/d/1qGy2-b1SRxSEkdzDkbmghH16_rVRwgC2FQhMx59UZbI/edit#slide=id.g200cf861361_0_0
 
-### What is left to do?
-- finish project management tracker
-- cleanup compiled files
-- practice presentation (each member speaks 3 minutes with 15 second leeway)
-
 ## Contributors
 ### Harriet Hammond
 #### GitHub: 
 #### LinkedIn:
 
 ### Rachel Helmich
-#### GitHub: 
-#### LinkedIn:
+#### GitHub: https://github.com/midwestbotanist
+#### LinkedIn: https://www.linkedin.com/in/rachel-helmich-809293ba/
 
 ### Erasmus Quaye
 #### GitHub: 
