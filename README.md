@@ -15,8 +15,8 @@ https://docs.google.com/presentation/d/1qGy2-b1SRxSEkdzDkbmghH16_rVRwgC2FQhMx59U
 #### LinkedIn: https://www.linkedin.com/in/rachel-helmich-809293ba/
 
 ### Erasmus Quaye
-#### GitHub: 
-#### LinkedIn:
+#### GitHub: https://github.com/ras52017
+#### LinkedIn: https://www.linkedin.com/in/erasmusquaye
 
 ## Background:
 Diabetes occurs mainly in three main types: Type 1 (autoimmune disease, ~5-10% of people with diabetes), Type 2 (90-95% of people with diabetes), and Gestational (occurs only in women during pregnancy, known to increase risk for Type 2 diabetes later in life). Prediabetes is an additional condition in which blood sugar levels are higher than normal, but not high enough to count as Type 2 diabetes (~1 in 3 US adults have prediabetes). Lifestyle changes are known to be successful methods to reverse prediabetes [1]. 
