@@ -10,7 +10,7 @@ https://public.tableau.com/app/profile/harriet.oppong/viz/Anaconda_Titans1__/Dia
 
 ## Contributors
 ### Harriet Hammond
-#### GitHub: 
+#### GitHub: https://github.com/HarrietHammond
 #### LinkedIn:https://www.linkedin.com/in/harrietoppong
 
 ### Rachel Helmich
