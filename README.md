@@ -31,6 +31,7 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 3) How well can future diabetes cases be predicted by the top indicators by training a model? 
 
+## ETL
 ### Sample ETL output dataset
 
 #### 1st 40 Cleaned_Row Data Sample
@@ -45,11 +46,9 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 ![image](https://github.com/ras52017/Anaconda_Titans/blob/main/Images/diabetes_binary_5050split_healt_Sample.jpg)
 
-#### Tableau Image
+## Visualizations
 
 ![image](https://github.com/ras52017/Anaconda_Titans/blob/main/Images/Anaconda_Titans%20Tableau%20Image.jpg)
-
-#### Visualization
 
 ##### Survey responses by States
 ![image](https://user-images.githubusercontent.com/112135658/216492957-7f6fb115-2135-4b5c-9378-774cfa86a7ae.png)
@@ -67,6 +66,12 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 #### Diabetes_Indicators
 
 ![image](https://user-images.githubusercontent.com/112135658/216495917-9a3bdd49-e7d7-44ec-8fa9-761b486f8a3d.png)
+
+## Machine Learning
+![diabetes_logistic_regression_model](https://user-images.githubusercontent.com/101941048/216856428-0023d8d8-9096-46ec-9006-adef497dcadf.png)
+![diabetes_neural_network_accuracy_loss](https://user-images.githubusercontent.com/101941048/216856429-c2294731-d327-43a7-ae69-6d6641c2832f.png)
+![diabetes_confusion_matrix](https://user-images.githubusercontent.com/101941048/216856430-897c2ddc-8b30-428f-9e68-e30d02169deb.png)
+
 
 ## Languages/Tools/Algorithms
 ### Languages:
