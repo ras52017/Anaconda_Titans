@@ -5,9 +5,6 @@
 ## Presentation
 https://docs.google.com/presentation/d/1qGy2-b1SRxSEkdzDkbmghH16_rVRwgC2FQhMx59UZbI/edit#slide=id.g200cf861361_0_0
 
-### Tableau public Link
-https://public.tableau.com/app/profile/harriet.oppong/viz/Anaconda_Titans1__/Diabetes_Prediction?publish=yes
-
 ## Contributors
 ### Harriet Hammond
 #### GitHub: 
@@ -34,24 +31,16 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 3) How well can future diabetes cases be predicted by the top indicators by training a model? 
 
-## Conclusion
-- 3 features looked at include: 
-    - Cholesterol levels
-    - High blood pressure
-    - History of stroke
-    - Race/gender differs on diabetes occurrences, demographics play a significant role
-- Logistic Regression model has a 73% accuracy at predicting diabetes
-- Diabetes is a disease that can occur due to a variety of genetic, environmental, and lifestyle factors, limiting the level accuracy a model can reach
+### Extracting Transforming and Loading (ETL)
 
-## Future Recommendations
-- Potential improvement upon the logistic regression model could be to review original dataset and seek out additional features known to be risk factors/comorbidities of diabetes
-- Expand the analysis to look at more diseases captured within the larger CDC dataset
-- Expand the analysis to look at the larger CDC dataset for disease-prevention indicators, leading to predicting behaviours diabetic patients can utilize to prevent/reverse diabetes (under doctor supervision)
+The extraction process started with downloading the 2021 Behavorial Risk Factor Surveillance System dataset from the CDC website and converted it from an XPORT(.XPT) into a Comma Separated Value(.CSV). format. Read in the dataset which consist of 303 columns and  438,693 rows. For the purposes of this project, we selected 25 columns to study the selected indicators and their relationship with diabetes.
+
+To transform this dataset, rows with NAN were dropped reducing the number of rows to 356,551. The dataset was further transformed in preparation towards pridicting with the Machine Learning Algorithms. Columns were renamed, rows where respondents did not answer the survey question or answered do not know were also removed and a binary dataset for diabetes vs no diabetes was created and stored as a CSV file with a total number of rows as 235,879. The Diabetes column was grouped into Yes, No and Borderline diabetes.Randomly selected from non diabetes group for balancing.
+
+The files were loaded as .CSV into github and used for the visualizations and Machine Learning.
 
 
-## ETL
 ### Sample ETL output dataset
-
 #### 1st 40 Cleaned_Row Data Sample
 
 ![image](https://github.com/ras52017/Anaconda_Titans/blob/main/Images/1st%2040%20Cleaned_Row%20Data%20Sample.jpg)
@@ -64,9 +53,11 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 ![image](https://github.com/ras52017/Anaconda_Titans/blob/main/Images/diabetes_binary_5050split_healt_Sample.jpg)
 
-## Visualizations
+#### Tableau Image
 
 ![image](https://github.com/ras52017/Anaconda_Titans/blob/main/Images/Anaconda_Titans%20Tableau%20Image.jpg)
+
+#### Visualization
 
 ##### Survey responses by States
 ![image](https://user-images.githubusercontent.com/112135658/216492957-7f6fb115-2135-4b5c-9378-774cfa86a7ae.png)
@@ -85,26 +76,9 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 ![image](https://user-images.githubusercontent.com/112135658/216495917-9a3bdd49-e7d7-44ec-8fa9-761b486f8a3d.png)
 
-## Machine Learning
-![diabetes_logistic_regression_model](https://user-images.githubusercontent.com/101941048/216856428-0023d8d8-9096-46ec-9006-adef497dcadf.png)
-![diabetes_neural_network_accuracy_loss](https://user-images.githubusercontent.com/101941048/216856429-c2294731-d327-43a7-ae69-6d6641c2832f.png)
-![diabetes_confusion_matrix](https://user-images.githubusercontent.com/101941048/216856430-897c2ddc-8b30-428f-9e68-e30d02169deb.png)
-
-
 ## Languages/Tools/Algorithms
 ### Languages:
-- Python (for ETL and Machine Learning)
-    - from sklearn:
-        - sklearn.model_selection (import train_test_split)
-        - sklearn.preprocessing (import StandardScaler,OneHotEncoder)
-        - sklearn.linear_model (import LogisticRegression)
-        - sklearn.metrics (import accuracy_score)
-    - Pandas
-    - Numpy
-    - OS
-    - Random 
-    - Tensorflow
-
+- Python
 
 ### Tools:
 - Visual Studio Code
