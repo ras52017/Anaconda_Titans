@@ -28,11 +28,11 @@ For this analysis, all diabetes types will be collectively treated as diabetes o
 
 The purpose of this analysis is to review the 2021 Behavioral Risk Factor Surveillance System survey data information dataset [3]. This dataset contains 438,693 records that we have cleaned and analyzed to look at how well known risk factors indicate the occurrence of diabetes/prediabetes from our questions noted below:
 
-1) What are the top 3-5 indicators/comorbities are found with diabetes patients?
+1) How does the occurence of diabetes differ by race and gender?
 
-2) How does the occurence of diabetes differ between and within races, genders, and both combined?
+2) How do selected health and lifestyle factors differ by race and gender?
 
-3) How well can future diabetes cases be predicted by the top indicators by training a model? 
+3) How well can future diabetes cases be predicted by the top indicators by training a model?
 
 ## Conclusion
 -  Features looked at include: 
