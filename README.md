@@ -72,6 +72,8 @@ The files were loaded as .CSV into github and used for the visualizations and Ma
 
 ![image](https://github.com/ras52017/Anaconda_Titans/blob/main/Images/diabetes_binary_5050split_healt_Sample.jpg)
 
+Due to the original file size, anyone who may want to run this code will have to download the source file from the CDC website with link in the resources below and use the commented python code to convert it into a CSV before reading the dataset.
+
 ## Visualizations
 
 ![image](https://user-images.githubusercontent.com/112135658/216868954-d5cd1860-1418-40d2-80f9-b22b9a01675d.png)
