@@ -32,7 +32,7 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 2) How do selected health and lifestyle factors differ by race and gender?
 
-3) How well can future diabetes cases be predicted by the top indicators by training a model?
+3) How well can future diabetes cases be predicted by using our chosen features by training a model?
 
 ## Conclusion
 -  Features looked at include: 
