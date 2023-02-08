@@ -52,14 +52,13 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
 
 ## Extracting Transforming and Loading (ETL)
 
-
-### Sample ETL output dataset
-
 The extraction process started with downloading the 2021 Behavorial Risk Factor Surveillance System dataset from the CDC website and converted it from an XPORT(.XPT) into a Comma Separated Value(.CSV). format. Read in the dataset which consist of 303 columns and  438,693 rows. For the purposes of this project, we selected 25 columns to study the selected indicators and their relationship with diabetes.
 
 To transform this dataset, rows with NAN were dropped reducing the number of rows to 356,551. The dataset was further transformed in preparation towards pridicting with the Machine Learning Algorithms. Columns were renamed, rows where respondents did not answer the survey question or answered do not know were also removed and a binary dataset for diabetes vs no diabetes was created and stored as a CSV file with a total number of rows as 235,879. The Diabetes column was grouped into Yes, No and Borderline diabetes.Randomly selected from non diabetes group for balancing.
 
 The files were loaded as .CSV into github and used for the visualizations and Machine Learning.
+
+### Sample ETL output dataset
 
 #### 1st 40 Cleaned_Row Data Sample
 
