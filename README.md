@@ -40,7 +40,8 @@ The purpose of this analysis is to review the 2021 Behavioral Risk Factor Survei
     - High blood pressure
     - Physical activity
     - Smokers
-    - Race/gender differs on diabetes occurrences, demographics play a significant role
+    - Race/gender differences had little impact from what this anaysis found
+    - LIFESTYLE, LIFESTYLE, LIFESTYLE - By far the largest impact!
 - Logistic Regression model has a 73% accuracy at predicting diabetes
 - Diabetes is a disease that can occur due to a variety of genetic, environmental, and lifestyle factors, limiting the level accuracy a model can reach
 
